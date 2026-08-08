@@ -1,0 +1,10 @@
+# Ignore raw multi-GB CSV files that are stored as lossless chunks in chunked_datasets/
+kuairand_final_merged.csv
+kuairand_video_categories.csv
+log_stacked_master_preprocessed.csv
+log_random_4_22_to_5_08_pure_preprocessed.csv
+
+# Temporary files
+temp_*.zip
+*.log
+__pycache__/
